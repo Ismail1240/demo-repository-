@@ -1,3 +1,3 @@
 # demo-repository-
-git &amp; github class
-hello
+git &amp; github class.
+
